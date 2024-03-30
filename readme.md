@@ -1,5 +1,6 @@
 # Aerofit EDA
-![Alt text](image.png)
+<img src="image.png" width="700" >
+
 Aerofit a leading fitness equipment company, has multiple treadmill models in the market. For every past purchase, we have data of customers (features) with us, with this data we can profile the customer for better targeting and recommendations. Additionally, we will also find the conditional probability of purchase of the product for a given customer profile or features.
 
 **Methods and Techniques used:** EDA and Probability (No clustering methods)
